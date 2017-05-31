@@ -1,0 +1,94 @@
+body {
+background-color: #000000;
+}
+
+.container {
+  background-color: #bfbfbf;
+  margin: 35px;
+  }
+
+.col-sm-2 {
+  background-color: #000000;
+  height: 78px;
+  margin-top: 10px;
+}
+
+.offset-3 {
+  background-color: #000000;
+  float: right;
+  height: 25px;
+  margin: 15px
+}
+
+.md-gap {
+  background-color: #000000;
+  height: 25px;
+  float: right;
+  margin: 20px
+}
+
+.sm-2 {
+  background-color: #000000;
+  height: 25px;
+  float: right;
+  margin: 18px;
+}
+
+.big-one {
+  background-color: #000000;
+  height: 400px;
+  margin-top: 20px;
+}
+
+.col-sm-3 {
+  background-color: #000000;
+  margin-top: 35px;
+  height: 20px;
+}
+
+.sm-4 {
+  background-color: #000000;
+  height: 115px;
+  margin-top: 20px;
+}
+
+.pull {
+background-color: #000000;
+height: 115px;
+float: right;
+margin-top: 20px;
+}
+
+.pull-right {
+  background-color: #000000;
+  height: 115px;
+  float: right;
+  margin: 18px;
+  margin-top: 18px;
+  margin-right: 18px;
+  margin-bottom: 18px;
+  margin-left: 98px;
+}
+
+.sm4 {
+  background-color: #000000;
+  height: 115px;
+  margin-top: 20px;
+}
+.sm2 {
+  background-color: #000000;
+  height: 115px;
+  float: right;
+  margin: 18px;
+  margin-top: 18px;
+  margin-right: 18px;
+  margin-bottom: 18px;
+  margin-left: 98px;
+}
+
+.sm2-2 {
+  background-color: #000000;
+  height: 115px;
+  float: right;
+  margin-top: 20px;
+}
